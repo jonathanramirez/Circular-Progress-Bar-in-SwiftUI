@@ -9,4 +9,4 @@ Animated Circular Progress Bar in SwiftUI
 ## Credits
 I borrowed from a lot of examples around the community and want to thank / credit the following for inspiration and ideas:
 
-[Paul Hudson:](https://www.hackingwithswift.com/)
+[Paul Hudson:]  https://www.hackingwithswift.com/ (https://www.hackingwithswift.com/)
